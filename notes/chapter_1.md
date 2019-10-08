@@ -1,20 +1,9 @@
 # API Study Group - Recap (Ch 1)
 
+We had a very productive meeting tonight and we enjoyed learning the  introductory material together.
 
+# **Topics Discussed** 
 
-# **Heading 1** 
-
-Text will go here.
-
-
-# **Heading 2** 
-
-Text will go here. 
-
-
-
-> Code will go here
-
-- Bullets will go here.
-
-
+- Why we should take the time to learn how to document REST APIs.
+- What is a REST API.
+- What software is needed to complete the course.
