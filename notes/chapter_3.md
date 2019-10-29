@@ -1,3 +1,4 @@
+
 # API Study Group - Recap (Ch 3)
 
 
@@ -16,5 +17,3 @@ Text will go here.
 > Code will go here
 
 - Bullets will go here.
-
-
